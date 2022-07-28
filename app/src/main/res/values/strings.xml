@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">loginapp</string>
+    <string name="profile">string</string>
+    <string name="mail">string</string>
+    <string name="code">string</string>
+    <string name="name">string</string>
+    <string name="secondName">string</string>
+</resources>
